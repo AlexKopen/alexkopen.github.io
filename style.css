@@ -1,0 +1,26 @@
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+p {
+    min-height: 80px;
+}
+
+#first-block {
+    margin-top: 50px;
+    height: 100px;
+    background: orange;
+}
+
+#column-one {
+    background: green;
+}
+
+#column-two {
+    background: yellow;
+}
+
+#column-three {
+    background: red;
+}
